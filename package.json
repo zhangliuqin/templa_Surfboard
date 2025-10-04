@@ -1,0 +1,14 @@
+{
+  "name": "build-tool",
+  "version": "1.0.0",
+  "description": "Provide V2ray subscrible link",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "keywords": [
+    "V2ray", "subscrible link"
+  ],
+  "author": "BI Hai",
+  "license": "ISC"
+}
