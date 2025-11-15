@@ -1,6 +1,6 @@
 说明
 /dist 位目录生成的目录，这个目录是给netlify应用的
-node.txt为SS或SSR节点列表文件（支持类的bash脚本注释，举个栗子：# 注释）
+node.txt为vmess或vless节点列表文件（支持类的bash脚本注释，举个栗子：# 注释）
 app.js为项目的核心逻辑
 如果你有什么问题，请打开一个问题
 npm run build
